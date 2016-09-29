@@ -1,1 +1,6 @@
+inst/extdata/450k-methyl
+inst/extdata/annotation
+inst/extdata/cnv
 inst/extdata/esc_jurkat
+inst/extdata/pol2
+inst/extdata/rna_seq
